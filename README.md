@@ -21,6 +21,8 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![javascript](https://user-images.githubusercontent.com/71052352/168397032-bfb368c6-f81c-4ba0-82bc-0df7a8bfa86e.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![csharp](https://user-images.githubusercontent.com/71052352/168397035-f6db43c9-93a4-4a91-8cbe-013f46071229.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![react](https://user-images.githubusercontent.com/71052352/168959297-72b5c30b-a2e3-49e1-b75f-28fd97b54371.png)
 
 <br>
 
