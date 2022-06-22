@@ -6,7 +6,7 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
   
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; I’m currently learning web development with ReactJS and Node.js
+- 🌱 &nbsp; I’m currently learning web development with ReactJS and Node
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nycolasfelipe?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/)
 - 📚 &nbsp; When I am free, I like to play RPG games and read geek stuff
