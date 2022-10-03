@@ -4,12 +4,12 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 <br/>
 <br/>
   
-### 🧐 More About Me:
+### More About Me:
 
-- 🌱 &nbsp; I’m currently learning web development with React and Node
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nycolasfelipe?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/)
-- 📚 &nbsp; When I am free, I like to play RPG games and read geek stuff
+- I'm currently studying computer science at UFF, Brazil;
+- I have been working as a front-web developer intern at [Exablack](https://www.linkedin.com/company/exablack/) since September 2022;
+- Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/);
+- When I am free, I like to play RPG games and read geek stuff.
 
 <br>
 
@@ -20,11 +20,18 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![javascript](https://user-images.githubusercontent.com/71052352/168397032-bfb368c6-f81c-4ba0-82bc-0df7a8bfa86e.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
-![react](https://user-images.githubusercontent.com/71052352/168959297-72b5c30b-a2e3-49e1-b75f-28fd97b54371.png)
+![jquery](https://user-images.githubusercontent.com/71052352/193496573-c4f68692-bd7e-4734-b691-1035edb6cf11.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![react](https://user-images.githubusercontent.com/71052352/193496818-8514be69-5604-4cba-b068-da472e982667.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![nodejs](https://user-images.githubusercontent.com/71052352/176318449-270cfda1-be0b-4f2c-a3c1-a9cbcd4917e3.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![mysql](https://user-images.githubusercontent.com/71052352/176318656-e8b5a28a-f4a0-4c6c-bd88-24705f567608.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![python](https://user-images.githubusercontent.com/71052352/193496420-1edc04f5-63af-43a6-b4bf-d90c4b35b7fa.png)
+
+
+
 
 
 <br>
