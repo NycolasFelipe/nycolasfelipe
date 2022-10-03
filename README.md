@@ -5,15 +5,13 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 <br/>
   
 ### More About Me:
-
 - I'm currently studying computer science at UFF, Brazil;
 - I have been working as a front-web developer intern at [Exablack](https://www.linkedin.com/company/exablack/) since September 2022;
 - Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/);
 - When I am free, I like to play RPG games and read geek stuff.
-
 <br>
 
-### 🔨 Languages and Tools:
+### Languages and Tools:
 ![html](https://user-images.githubusercontent.com/71052352/168397010-dff8cf39-1f0e-47b5-ad8a-95f603fde470.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![css](https://user-images.githubusercontent.com/71052352/168397022-65b98a9b-bbf2-46d3-80c4-06fcab29b9d4.png)
@@ -29,15 +27,9 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![mysql](https://user-images.githubusercontent.com/71052352/176318656-e8b5a28a-f4a0-4c6c-bd88-24705f567608.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![python](https://user-images.githubusercontent.com/71052352/193496420-1edc04f5-63af-43a6-b4bf-d90c4b35b7fa.png)
-
-
-
-
-
 <br>
 
-
-### 📊 Github Stats
+### Github Stats
 <a href='https://github.com/nycolasfelipe/github-stats-transparent'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nycolasfelipe&hide=prs,issues&show_icons=true&theme=codeSTACKr)
