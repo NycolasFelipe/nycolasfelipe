@@ -27,6 +27,7 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![mysql](https://user-images.githubusercontent.com/71052352/176318656-e8b5a28a-f4a0-4c6c-bd88-24705f567608.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![python](https://user-images.githubusercontent.com/71052352/193496420-1edc04f5-63af-43a6-b4bf-d90c4b35b7fa.png)
+
 <br>
 
 ### Github Stats
