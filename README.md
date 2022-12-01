@@ -1,6 +1,6 @@
 ## Hey, I'm Nycolas!
 
-I'm a computer science student in Brazil. I love exploring new technologies and leveraging them to build cool stuffs.
+I'm a computer science student in Brazil. I love exploring new technologies and leveraging them to build cool stuff.
 <br/>
 <br/>
   
