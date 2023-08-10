@@ -5,8 +5,8 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 <br/>
   
 ### More About Me:
-- I'm currently studying computer science at UFF, Brazil;
-- I have been working as a front-web developer intern at [Exablack](https://www.linkedin.com/company/exablack/) since September 2022;
+- I'm currently a computer science student at UFF, Brazil;
+- I have been working as a front-web developer since August 2022, currently working at [Opikode](https://www.linkedin.com/company/opikode/);
 - Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/);
 - When I am free, I like to play RPG games and read geek stuff.
 <br>
