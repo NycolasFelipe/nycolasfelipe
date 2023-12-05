@@ -18,6 +18,8 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![javascript](https://user-images.githubusercontent.com/71052352/168397032-bfb368c6-f81c-4ba0-82bc-0df7a8bfa86e.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![sass-sm](https://github.com/NycolasFelipe/nycolasfelipe/assets/71052352/72dca3f3-7a10-4dd1-b0f0-7a2b7260bdba)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![jquery](https://user-images.githubusercontent.com/71052352/193496573-c4f68692-bd7e-4734-b691-1035edb6cf11.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![react](https://user-images.githubusercontent.com/71052352/193496818-8514be69-5604-4cba-b068-da472e982667.png)
