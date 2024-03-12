@@ -6,7 +6,7 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
   
 ### More About Me:
 - I'm currently a computer science student at UFF, Brazil;
-- I have been working as a front-web developer since August 2022, currently working at [Opikode](https://www.linkedin.com/company/opikode/);
+- I worked as a front-web developer from August 2022 to March 2024 at [Opikode](https://www.linkedin.com/company/opikode/);
 - Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/);
 - When I am free, I like to play RPG games and read geek stuff.
 <br>
