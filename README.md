@@ -1,13 +1,13 @@
 ## Hey, I'm Nycolas!
 
-I'm a computer science student in Brazil. I love exploring new technologies and leveraging them to build cool stuff.
+I love exploring new technologies and leveraging them to build cool stuff.
 <br/>
 <br/>
   
 ### More About Me:
-- I'm currently a computer science student at UFF, Brazil;
-- I worked as a front-web developer from August 2022 to March 2024 at [Opikode](https://www.linkedin.com/company/opikode/);
-- Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe-0448b6150/);
+- I'm currently pursuing a Bachelor's Degree in Information Systems;
+- I work as a full-stack developer specializing in React and Node.js at Transforma Educação, since November 2024.
+- Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/nycolas-felipe);
 - When I am free, I like to play RPG games and read geek stuff.
 <br>
 
@@ -29,8 +29,6 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![mysql](https://user-images.githubusercontent.com/71052352/176318656-e8b5a28a-f4a0-4c6c-bd88-24705f567608.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![git](https://github.com/NycolasFelipe/nycolasfelipe/assets/71052352/becb12ec-ec79-40e3-ab30-3da56acca390)
-![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
-![vscode](https://github.com/NycolasFelipe/nycolasfelipe/assets/71052352/eb5cacdc-9356-49c3-90af-5446ba46c7ed)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![bootstrap](https://github.com/NycolasFelipe/nycolasfelipe/assets/71052352/4d56c0b4-44df-4b26-a9e3-cca6e2a5fe56)
 
