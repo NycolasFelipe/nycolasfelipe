@@ -57,12 +57,3 @@ Specialized in transforming UI/UX designs into responsive interfaces and current
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](#)
-
-<br>
-
-### 📊 GitHub Stats
-
-<a href='https://github.com/nycolasfelipe/github-stats-transparent'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolasfelipe&show_icons=true&theme=catppuccin_latte" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolasfelipe&hide=yacc,game%20maker%20language,&layout=compact&theme=catppuccin_latte" />
-</a>
