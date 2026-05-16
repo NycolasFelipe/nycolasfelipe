@@ -1,21 +1,25 @@
 ## Hey, I'm Nycolas Felipe! 👋
 
-Fullstack Developer & Tech Lead with 4 years of experience, starting my journey as Frontend Developer and now evolving into Technical Leadership and Software Architecture. 
-Specialized in transforming UI/UX designs into responsive interfaces and currently deepening expertise in design systems, software architectures, continuous deployment, and high availability systems.
+Full Stack Developer focused on backend development, REST APIs, system integrations, and process automation.
+
+I started my journey in front-end development, building responsive interfaces and integrating dynamic data into web platforms. Today, I work across the full application stack, developing backend services, database-driven applications, internal platforms, ERP systems, and automation solutions that improve operational efficiency and make business processes more reliable and scalable.
+
+I have experience with Node.js, TypeScript, NestJS, Python, React, MySQL, PostgreSQL, Docker, Redis, RabbitMQ, and Nginx. I'm especially interested in full stack development, backend engineering, APIs, system integrations, SaaS products, scalable architectures, and automation.
+
 
 ```
 🎓 Currently pursuing a Bachelor's Degree in Information Systems at UNINTER
-💼 Fullstack Developer & Tech Lead at Transforma Educação (since Nov 2024)
-🎯 Currently leading technical initiatives and software architecture decisions
-🏗️ Deepening knowledge in Design Systems and Scalable Architectures
-⚡ Exploring CI/CD, High Availability, and System Performance
-🛠️ Experienced in ERP systems, e-commerce platforms, and educational technologies
+💼 Full Stack Developer at Transforma Educação
+🧩 Experienced in ERP systems, internal platforms, e-commerce, and educational technologies
+⚙️ Focused on backend development, REST APIs, integrations, and process automation
+🏗️ Interested in scalable architectures, software design, and system reliability
+🚀 Exploring CI/CD, Docker-based deployments, high availability, and performance optimization
 🎮 When I'm free, I enjoy playing RPG games and reading geek stuff
 ```
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/nycolas-felipe)
 
-✉️ Feel free to message me on nycolasfelipe.contato@gmail.com
+✉️ Feel free to message me at **nycolasfelipe.contato@gmail.com**
 
 <br>
 
@@ -29,12 +33,15 @@ Specialized in transforming UI/UX designs into responsive interfaces and current
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 
 #### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?logo=fastapi&logoColor=fff)](#)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff)](#)
 
 #### Databases
@@ -47,9 +54,9 @@ Specialized in transforming UI/UX designs into responsive interfaces and current
 [![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?logo=apachejmeter&logoColor=fff)](#)
 
 #### DevOps & Architecture
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff)](#)
