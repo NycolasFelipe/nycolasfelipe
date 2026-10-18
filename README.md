@@ -1,8 +1,6 @@
 ## Hey, I'm Nycolas Felipe! 👋
 
-Software Engineer and cofounder of [Techlithy](https://techlithy.com/), where I lead the development of a multi-tenant SaaS CRM used by 4 companies that together run more than 20 schools. I work from product and architecture to running it in production.
-
-I started in front-end at Opikode, moved to fullstack at Transforma Educação, where I was the tech lead of the Ensina Mais e-commerce, and since July 2026 I've been full time at Techlithy, which now also runs Transforma's IT.
+Software Engineer and cofounder of [Techlithy](https://techlithy.com/), where I lead the development of a multi-tenant SaaS CRM.
 
 🌐 **Portfolio and case studies:** [nycolasfelipe.techlithy.com](https://nycolasfelipe.techlithy.com/en)
 
